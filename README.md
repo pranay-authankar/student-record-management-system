@@ -14,6 +14,7 @@ A powerful and secure **console-based student record management system** built i
 
 - 📚 **Dynamic Subject & Student Management**  
   Supports any number of students and subjects with fully dynamic input.
+  `(As it is console based, so add upto 3 subjects for best visual results)`
 
 - 🏅 **Topper & Top-3 Analysis**  
   Automatically identifies the class topper and top 3 performers based on total marks.
@@ -37,18 +38,10 @@ A powerful and secure **console-based student record management system** built i
 
 ---
 
-## 📌 Future Enhancements
-
-- Data persistence using files (CSV/JSON)
-- GUI using `tkinter`
-- Export report cards as PDF
-- Search or update student by ID
-
----
 
 ## 🧑‍💻 Author
 
-**Pranay Authankar**  
+#**Pranay Authankar**  
 Passionate Python developer aiming to build real-world problem-solving tools.  
 [GitHub Profile »](https://github.com/pranay-authankar)
 
