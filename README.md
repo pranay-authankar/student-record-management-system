@@ -42,7 +42,8 @@ A powerful and secure **console-based student record management system** built i
 
 ## 🧑‍💻 Author
 
-#Pranay Authankar
+# **Pranay Authankar**
+
 Passionate Python developer aiming to build real-world problem-solving tools.  
 [GitHub Profile »](https://github.com/pranay-authankar)
 
